@@ -147,6 +147,7 @@
 |[ICEFIRE](http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list)|OFFLINE|||
 |[INC RANSOM](http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks)|ONLINE|||
 |[INC RANSOM - new](http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion)|ONLINE|||
+|[INC RANSOM (victim site) - new](http://incpaykabjqc2mtdxq6c23nqh4x6m5dkps5fr6vgdkgzp5njssx6qkid.onion/)|ONLINE|||
 |[INC RANSOM (Deep)](http://incapt.su/blog/leaks)|ONLINE|||
 |[INC RANSOM (new - Deep)](http://inblog.su/blog/disclosures)|ONLINE|||
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion)|OFFLINE|||
